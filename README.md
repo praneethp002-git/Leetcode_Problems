@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/0155-min-stack) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Math
 |  |
@@ -48,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/2154-keep-multiplying-found-values-by-two) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
