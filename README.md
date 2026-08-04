@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/0682-baseball-game) |
+| [0877-stone-game](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/0912-sort-an-array) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3516-find-closest-person](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/3516-find-closest-person) |
@@ -119,4 +121,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/0877-stone-game) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
