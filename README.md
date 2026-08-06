@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0912-sort-an-array](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/0912-sort-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/1833-maximum-ice-cream-bars) |
+| [2351-first-letter-to-appear-twice](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/2351-first-letter-to-appear-twice) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 ## String
 |  |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1528-shuffle-string](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/1528-shuffle-string) |
+| [2351-first-letter-to-appear-twice](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/2351-first-letter-to-appear-twice) |
 | [3931-check-adjacent-digit-differences](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/3931-check-adjacent-digit-differences) |
 ## Stack
 |  |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2351-first-letter-to-appear-twice](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/2351-first-letter-to-appear-twice) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3945-digit-frequency-score](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/3945-digit-frequency-score) |
 ## Simulation
@@ -142,4 +145,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/3345-smallest-divisible-digit-product-i) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2351-first-letter-to-appear-twice](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/2351-first-letter-to-appear-twice) |
 <!---LeetCode Topics End-->
