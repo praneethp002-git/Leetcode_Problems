@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1528-shuffle-string](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/1528-shuffle-string) |
+| [1556-thousand-separator](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/1556-thousand-separator) |
 | [1678-goal-parser-interpretation](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/1678-goal-parser-interpretation) |
 | [2351-first-letter-to-appear-twice](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/2351-first-letter-to-appear-twice) |
 | [3931-check-adjacent-digit-differences](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/3931-check-adjacent-digit-differences) |
