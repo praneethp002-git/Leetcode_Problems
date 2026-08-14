@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/1833-maximum-ice-cream-bars) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Greedy
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/1833-maximum-ice-cream-bars) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Counting Sort
 |  |
 | ------- |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/0128-longest-consecutive-sequence) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2351-first-letter-to-appear-twice](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/2351-first-letter-to-appear-twice) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3941-password-strength](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/3941-password-strength) |
 | [3945-digit-frequency-score](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/3945-digit-frequency-score) |
