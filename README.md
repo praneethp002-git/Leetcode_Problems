@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/0014-longest-common-prefix) |
 | [0128-longest-consecutive-sequence](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/0682-baseball-game) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/0020-valid-parentheses) |
 | [0844-backspace-string-compare](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -162,4 +164,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/0128-longest-consecutive-sequence) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
