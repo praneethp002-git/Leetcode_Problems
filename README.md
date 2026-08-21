@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3842-toggle-light-bulbs](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/3842-toggle-light-bulbs) |
 | [4020-elevator-requests-i](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/4020-elevator-requests-i) |
 ## Greedy
 |  |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/1833-maximum-ice-cream-bars) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3842-toggle-light-bulbs](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/3842-toggle-light-bulbs) |
 ## Counting Sort
 |  |
 | ------- |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2351-first-letter-to-appear-twice](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/2351-first-letter-to-appear-twice) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
+| [3842-toggle-light-bulbs](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/3842-toggle-light-bulbs) |
 | [3941-password-strength](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/3941-password-strength) |
 | [3945-digit-frequency-score](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/3945-digit-frequency-score) |
 ## Simulation
@@ -103,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2154-keep-multiplying-found-values-by-two](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3842-toggle-light-bulbs](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/3842-toggle-light-bulbs) |
 | [4020-elevator-requests-i](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/4020-elevator-requests-i) |
 ## Design
 |  |
