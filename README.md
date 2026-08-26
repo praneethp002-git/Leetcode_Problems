@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/0014-longest-common-prefix) |
+| [0048-rotate-image](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/0048-rotate-image) |
 | [0128-longest-consecutive-sequence](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/0682-baseball-game) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/0048-rotate-image) |
 | [0628-maximum-product-of-three-numbers](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -213,4 +215,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/0567-permutation-in-string) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
