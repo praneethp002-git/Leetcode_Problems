@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/0014-longest-common-prefix) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/0048-rotate-image) |
 | [0128-longest-consecutive-sequence](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/0628-maximum-product-of-three-numbers) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0567-permutation-in-string](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/0844-backspace-string-compare) |
 | [2396-strictly-palindromic-number](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/2396-strictly-palindromic-number) |
