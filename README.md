@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3842-toggle-light-bulbs](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/3842-toggle-light-bulbs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/3875-construct-uniform-parity-array-i) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/1833-maximum-ice-cream-bars) |
 | [2351-first-letter-to-appear-twice](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/2351-first-letter-to-appear-twice) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 ## String
 |  |
 | ------- |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3842-toggle-light-bulbs](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/3842-toggle-light-bulbs) |
 | [3941-password-strength](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/3941-password-strength) |
