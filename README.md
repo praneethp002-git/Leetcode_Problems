@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/0020-valid-parentheses) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/0567-permutation-in-string) |
+| [0796-rotate-string](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1408-string-matching-in-an-array](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/1408-string-matching-in-an-array) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0796-rotate-string](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/0796-rotate-string) |
 | [1408-string-matching-in-an-array](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/1408-string-matching-in-an-array) |
 ## Brainteaser
 |  |
