@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/0048-rotate-image) |
 | [0628-maximum-product-of-three-numbers](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/1025-divisor-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/2235-add-two-integers) |
 | [2396-strictly-palindromic-number](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/2396-strictly-palindromic-number) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/1025-divisor-game) |
 ## Minimax
 |  |
 | ------- |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/1025-divisor-game) |
 ## Zero-Sum Game
 |  |
 | ------- |
@@ -225,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [1025-divisor-game](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/1025-divisor-game) |
 | [2396-strictly-palindromic-number](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/2396-strictly-palindromic-number) |
 ## Sliding Window
 |  |
@@ -237,4 +241,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/0048-rotate-image) |
+## Impartial Game
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
