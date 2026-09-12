@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/1025-divisor-game) |
+| [1952-three-divisors](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/2235-add-two-integers) |
 | [2396-strictly-palindromic-number](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/2396-strictly-palindromic-number) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1952-three-divisors](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Hash Table
 |  |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1952-three-divisors](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/1952-three-divisors) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Bit Manipulation
 |  |
@@ -245,4 +248,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/1025-divisor-game) |
+## Prime Factorization
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/1952-three-divisors) |
+## Sieve Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
