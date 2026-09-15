@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/2235-add-two-integers) |
 | [2396-strictly-palindromic-number](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/2396-strictly-palindromic-number) |
+| [2652-sum-multiples](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/2652-sum-multiples) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/3345-smallest-divisible-digit-product-i) |
