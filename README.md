@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0397-integer-replacement](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/0397-integer-replacement) |
 | [1833-maximum-ice-cream-bars](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/1833-maximum-ice-cream-bars) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0397-integer-replacement](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/0397-integer-replacement) |
 | [0877-stone-game](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/1025-divisor-game) |
 ## Minimax
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0397-integer-replacement](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/0397-integer-replacement) |
 | [2032-two-out-of-three](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/2032-two-out-of-three) |
 | [2351-first-letter-to-appear-twice](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/2351-first-letter-to-appear-twice) |
 ## Union-Find
@@ -259,4 +262,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/1952-three-divisors) |
+## Memoization
+|  |
+| ------- |
+| [0397-integer-replacement](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/0397-integer-replacement) |
 <!---LeetCode Topics End-->
