@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3516-find-closest-person](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/3516-find-closest-person) |
 | [3875-construct-uniform-parity-array-i](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/3875-construct-uniform-parity-array-i) |
 | [3945-digit-frequency-score](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/3945-digit-frequency-score) |
+| [3959-check-good-integer](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/3959-check-good-integer) |
 ## Number Theory
 |  |
 | ------- |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3842-toggle-light-bulbs](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/3842-toggle-light-bulbs) |
+| [3959-check-good-integer](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/3959-check-good-integer) |
 | [4020-elevator-requests-i](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/4020-elevator-requests-i) |
 ## Design
 |  |
