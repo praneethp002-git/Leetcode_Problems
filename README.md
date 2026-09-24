@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-add-two-integers](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/2235-add-two-integers) |
 | [2396-strictly-palindromic-number](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/2396-strictly-palindromic-number) |
 | [2413-smallest-even-multiple](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/2413-smallest-even-multiple) |
+| [2651-calculate-delayed-arrival-time](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/2651-calculate-delayed-arrival-time) |
 | [2652-sum-multiples](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/2652-sum-multiples) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
