@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3842-toggle-light-bulbs](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/3842-toggle-light-bulbs) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3516-find-closest-person](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/3516-find-closest-person) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/3875-construct-uniform-parity-array-i) |
 | [3945-digit-frequency-score](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/3945-digit-frequency-score) |
 | [3959-check-good-integer](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/3959-check-good-integer) |
