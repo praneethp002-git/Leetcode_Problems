@@ -281,4 +281,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0397-integer-replacement](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/0397-integer-replacement) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
