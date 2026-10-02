@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/1833-maximum-ice-cream-bars) |
 | [2351-first-letter-to-appear-twice](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/2351-first-letter-to-appear-twice) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 ## String
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-add-two-integers](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/2235-add-two-integers) |
 | [2396-strictly-palindromic-number](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/2396-strictly-palindromic-number) |
 | [2413-smallest-even-multiple](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/2413-smallest-even-multiple) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2651-calculate-delayed-arrival-time](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/2651-calculate-delayed-arrival-time) |
 | [2652-sum-multiples](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/2652-sum-multiples) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/3232-find-if-digit-game-can-be-won) |
@@ -145,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2154-keep-multiplying-found-values-by-two](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2351-first-letter-to-appear-twice](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/2351-first-letter-to-appear-twice) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
