@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/1528-shuffle-string) |
 | [1556-thousand-separator](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/1556-thousand-separator) |
 | [1678-goal-parser-interpretation](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/1678-goal-parser-interpretation) |
+| [1694-reformat-phone-number](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/1694-reformat-phone-number) |
 | [2351-first-letter-to-appear-twice](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/2351-first-letter-to-appear-twice) |
 | [2390-removing-stars-from-a-string](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/2390-removing-stars-from-a-string) |
 | [3931-check-adjacent-digit-differences](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/3931-check-adjacent-digit-differences) |
