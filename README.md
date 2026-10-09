@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2351-first-letter-to-appear-twice](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/2351-first-letter-to-appear-twice) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 ## String
 |  |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1694-reformat-phone-number](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/1694-reformat-phone-number) |
 | [2351-first-letter-to-appear-twice](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/2351-first-letter-to-appear-twice) |
 | [2390-removing-stars-from-a-string](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/2390-removing-stars-from-a-string) |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3931-check-adjacent-digit-differences](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/3931-check-adjacent-digit-differences) |
 | [3941-password-strength](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/3941-password-strength) |
 ## Stack
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2956-find-common-elements-between-two-arrays](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/3678-smallest-absent-positive-greater-than-average) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/3718-smallest-missing-multiple-of-k) |
