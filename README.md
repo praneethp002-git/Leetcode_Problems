@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2154-keep-multiplying-found-values-by-two](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/1952-three-divisors) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Bit Manipulation
 |  |
