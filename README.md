@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1528-shuffle-string](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/1528-shuffle-string) |
+| [1672-richest-customer-wealth](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/1672-richest-customer-wealth) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1833-maximum-ice-cream-bars](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/1833-maximum-ice-cream-bars) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/0048-rotate-image) |
+| [1672-richest-customer-wealth](https://github.com/praneethp002-git/Leetcode_Problems/tree/master/1672-richest-customer-wealth) |
 ## Impartial Game
 |  |
 | ------- |
